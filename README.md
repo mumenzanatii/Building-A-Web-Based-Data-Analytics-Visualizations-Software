@@ -1,6 +1,6 @@
-#A simply web-based Data Analytics & Visualizations Software that can analyze specific property data and visualize its Net Income and Net Expenses in charts.
+# A simply web-based Data Analytics & Visualizations Software that can analyze specific property data and visualize its Net Income and Net Expenses in charts.
 
-##📸 Screenshots of the web
+## 📸 Screenshots of the web
 
 ![vlcsnap-2022-10-11-18h23m27s609](https://user-images.githubusercontent.com/97386366/195147300-6e44b5cd-276c-4b2c-af10-d860412f31bf.png)
 ![vlcsnap-2022-10-11-18h23m43s903](https://user-images.githubusercontent.com/97386366/195147368-07e6fa20-a795-4eb9-a1b0-f6495c76f7ab.png)
